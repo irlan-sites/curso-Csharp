@@ -1,0 +1,14 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\refint\primeiroProjeto.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\primeiroProjeto\primeiroProjeto\obj\Debug\net8.0\ref\primeiroProjeto.dll

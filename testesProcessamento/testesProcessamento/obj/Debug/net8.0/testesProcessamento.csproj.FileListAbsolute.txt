@@ -1,0 +1,14 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\bin\Debug\net8.0\testesProcessamento.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\bin\Debug\net8.0\testesProcessamento.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\bin\Debug\net8.0\testesProcessamento.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\bin\Debug\net8.0\testesProcessamento.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\bin\Debug\net8.0\testesProcessamento.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\refint\testesProcessamento.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\ref\testesProcessamento.dll
