@@ -12,3 +12,4 @@ C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\te
 C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.pdb
 C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.genruntimeconfig.cache
 C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\ref\testesProcessamento.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\testesProcessamento\testesProcessamento\obj\Debug\net8.0\testesProcessamento.sourcelink.json

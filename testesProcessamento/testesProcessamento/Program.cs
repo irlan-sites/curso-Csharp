@@ -6,23 +6,27 @@ namespace testesProcessamento
     {
         static void Main(string[] args)
         {
-            string palavra;
-            int num;
-            double dec;
-            string[] paciente; //nome, idade, altura, sexo
+            string nomeCompleto;
+            int quartos;
+            double preco;
+            string[] dados;
 
-            palavra = Console.ReadLine();
-            num = int.Parse(Console.ReadLine());
-            dec = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Digite seu nome completo: ");
+            nomeCompleto = Console.ReadLine();
 
-            paciente = Console.ReadLine().Split(' ');
-            string nomePaciente = paciente[0];
-            int idadePaciente = int.Parse(paciente[1]);
-            double alturaPaciente = double.Parse(paciente[2], CultureInfo.InvariantCulture);
-            char sexoPaciente = char.Parse(paciente[3]);
+            Console.Write("Quantos quartos existem na sua casa? (Ex: 2): ");
+            quartos = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Voce digitou: \n{palavra}\n{num}\n{dec.ToString(CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"Paciente: {nomePaciente}\nIdade: {idadePaciente}\nAltura: {alturaPaciente.ToString(CultureInfo.InvariantCulture)}\nSexo: {sexoPaciente}");
+            Console.Write("Digite o preço de algum produto (Ex: 25,90): ");
+            preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.Write("Digite seu último nome, sua idade e sua altura: ");
+            dados = Console.ReadLine().Split();
+
+            Console.WriteLine($"Seu nome completo é: {nomeCompleto}");
+            Console.WriteLine($"Na sua casa existem: {quartos} quartos");
+            Console.WriteLine($"O preço que voce digitou foi: R${preco}");
+            Console.WriteLine($"Seu último nome é: {dados[0]}\nSua idade é: {dados[1]} anos\nSua altura é: {dados[2]}m");
         }
     }
 }
