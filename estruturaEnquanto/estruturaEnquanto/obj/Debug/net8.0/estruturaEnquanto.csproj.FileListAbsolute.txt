@@ -1,0 +1,15 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\bin\Debug\net8.0\estruturaEnquanto.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\bin\Debug\net8.0\estruturaEnquanto.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\bin\Debug\net8.0\estruturaEnquanto.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\bin\Debug\net8.0\estruturaEnquanto.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\bin\Debug\net8.0\estruturaEnquanto.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.sourcelink.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\refint\estruturaEnquanto.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\estruturaEnquanto.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaEnquanto\estruturaEnquanto\obj\Debug\net8.0\ref\estruturaEnquanto.dll

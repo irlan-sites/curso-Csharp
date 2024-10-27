@@ -1,0 +1,15 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\bin\Debug\net8.0\condicionais.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\bin\Debug\net8.0\condicionais.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\bin\Debug\net8.0\condicionais.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\bin\Debug\net8.0\condicionais.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\bin\Debug\net8.0\condicionais.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.sourcelink.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\refint\condicionais.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\condicionais.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\condicionais\condicionais\obj\Debug\net8.0\ref\condicionais.dll

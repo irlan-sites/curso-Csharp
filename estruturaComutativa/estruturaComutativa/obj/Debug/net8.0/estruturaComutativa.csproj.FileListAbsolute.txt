@@ -1,0 +1,15 @@
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\bin\Debug\net8.0\estruturaComutativa.exe
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\bin\Debug\net8.0\estruturaComutativa.deps.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\bin\Debug\net8.0\estruturaComutativa.runtimeconfig.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\bin\Debug\net8.0\estruturaComutativa.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\bin\Debug\net8.0\estruturaComutativa.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.AssemblyInfoInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.AssemblyInfo.cs
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.csproj.CoreCompileInputs.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.sourcelink.json
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\refint\estruturaComutativa.dll
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.pdb
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\estruturaComutativa.genruntimeconfig.cache
+C:\Users\Irlan\Documents\PROGRAMACAO\Curso de C#\Códigos\estruturaComutativa\estruturaComutativa\obj\Debug\net8.0\ref\estruturaComutativa.dll
